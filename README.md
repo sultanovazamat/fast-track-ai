@@ -13,7 +13,7 @@ Welcome to the companion repository for the book **Fast-Track AI Development**. 
 
 ### 📓 **Jupyter Notebooks**
 - **Part II: Ready-to-Go AI Solutions**  
-  The Jupyter notebooks showcase various prototypes for real-life AI applications. These examples cover:
+  The `notebooks` directory contains Jupyter notebooks showcasing various prototypes for real-life AI applications. These examples cover:
   - **Natural Language Processing (NLP)**: Sentiment analysis, text classification, and more.
   - **Computer Vision (CV)**: Object detection, pose estimation, and other use cases.
 
