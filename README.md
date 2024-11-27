@@ -1,4 +1,4 @@
-# **Fast-Track AI Development**  
+# **AI Fast-Track  Methodology**  
 ### *Building Real Applications with Modern Frameworks*
 
 Welcome to the companion repository for the book **Fast-Track AI Development**. This repository is organized to complement the two parts of the book and provide hands-on examples for building AI applications.
